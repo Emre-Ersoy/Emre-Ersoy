@@ -19,7 +19,7 @@ I'm Emre Ersoy — a curious builder, researcher, and creative mind combining en
 
 📫 How to reach me:
 - GitHub: [Emre-Ersoy](https://github.com/Emre-Ersoy)
-- LinkedIn: [linkedin.com/in/emre-ersoy](https://www.linkedin.com/in/emre-ersoy/)
+- LinkedIn: [linkedin.com/in/emre-ersoy](https://www.linkedin.com/in/devops-emre-ersoy/)
 
 💬 Ask me about:
 - AWS
