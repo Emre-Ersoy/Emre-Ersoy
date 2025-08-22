@@ -33,6 +33,6 @@ I'm Emre Ersoy — a curious builder, researcher, and creative mind combining en
 
 <div align="right">
 
-**AI Written text, expect this one and the one before this one 😎**
+**AI Written text, except this one and the one before this one 😎**
 
 </div>
