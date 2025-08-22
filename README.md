@@ -28,3 +28,11 @@ I'm Emre Ersoy — a curious builder, researcher, and creative mind combining en
 ---
 
 > _“The first step to success is saying 'we'll handle it.'” – Emre Ersoy_
+
+--- 
+
+<div align="right">
+
+**AI Written text, expect this one and the one before this one 😎**
+
+</div>
