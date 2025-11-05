@@ -5,8 +5,8 @@ I'm Emre Ersoy — a curious builder, researcher, and creative mind combining en
 🎓 I'm a Computer Engineering MSc student at Istanbul Technical University.  
 
 🔭 I’m currently working on:
-- **Deep learning models for RNA 3D structure prediction** (transformers, MSAs, mmCIF parsing)
-- **Human activity recognition** with causal Transformers and large-scale datasets
+- **TRM, Transformers**
+- **Sheaf Neural Networks**
 - **LLM Agents** with functionalities
 
 🌱 I’m currently learning:
